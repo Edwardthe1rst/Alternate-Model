@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chart of the Bible's Books</title>
+  <link rel="stylesheet" href="books.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <div class="page">
+
+    <header class="letterhead">
+      <div class="letterhead-from">
+        <span>Compilation</span>
+        <strong id="doc-title">Chart of the Bible's Books</strong>
+        <span>A section-by-section survey of books, chapters, figures, and themes</span>
+      </div>
+      <div class="letterhead-rule"></div>
+    </header>
+
+    <section class="intro">
+      <p>
+        These following tables present a structured overview of the books of the Bible,
+        organized by western traditional sections. Each table covers one section and lists, for
+        every book, the key chapters, the principal characters,
+        the major events recorded, and the overarching theological themes at work.
+        This chart is intended as a reference aid - a starting point for study rather than a
+        substitute for reading the texts themselves.
+      </p>
+    </section>
+
+    <main id="sections-container">
+      <!-- Sections are injected here by books.js -->
+      <div class="loading-state" id="loading-state">
+        <p>Loading&hellip;</p>
+      </div>
+    </main>
+
+    <footer class="sign-off">
+      <p class="footer-note">
+        Written by Edwardthe1rst.
+      </p>
+    </footer>
+
+  </div>
+
+  <script src="books.js"></script>
+</body>
+</html>

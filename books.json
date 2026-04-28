@@ -1,0 +1,946 @@
+{
+  "title": "Charting the Bible's Books and Storyline",
+  "sections": [
+    {
+      "section": "Pentateuch",
+      "books": [
+        {
+          "book": "Genesis",
+          "key_chapters": [1, 2, 3, 11, 18, 22, 35, 37, 48],
+          "characters": ["Adam", "Eve", "Noah", "Abraham", "Sarah", "Lot", "Isaac", "Jacob", "Joseph"],
+          "events": [
+            "Creation",
+            "The Flood",
+            "Babel",
+            "The Call of Abram",
+            "The Sacrifice of Isaac",
+            "The Treachery of Jacob",
+            "The Uniting of Jacob and Esau",
+            "The Betrayal of Joseph",
+            "The Rescue of Israel"
+          ],
+          "themes": [
+            "God's Faithfulness to Unfaithful People",
+            "God's Punishment of Pride and Rewarding of Humility",
+            "The Fruit of Trusting God's Promises"
+          ]
+        },
+        {
+          "book": "Exodus",
+          "key_chapters": [2, 3, 4, 5, 11, 14, 20, 34],
+          "characters": ["Moses", "Pharaoh", "Jethro", "Aaron"],
+          "events": [
+            "The Call of Moses",
+            "The Ten Plagues",
+            "The Red Sea Crossing",
+            "The Manna and Quail",
+            "The Water from the Rock",
+            "The Giving of the Commandments",
+            "The Golden Calf",
+            "The Building of the Tabernacle"
+          ],
+          "themes": [
+            "God is Just and Merciful",
+            "God is Faithful to Protect His People",
+            "God is Always Particularly Concerned with His People"
+          ]
+        },
+        {
+          "book": "Leviticus",
+          "key_chapters": [8, 9, 10, 25, 26],
+          "characters": ["Moses", "Aaron", "Eleazar", "Ithamar"],
+          "events": [
+            "The Giving of Laws",
+            "The Invalid Sacrifice and Death of Nadab and Abihu",
+            "The Anointing of Aaron and His Sons"
+          ],
+          "themes": [
+            "Blood Must Be Shed for Atonement of Sin",
+            "God is Faithful to Keep Promises and to Judge Sin",
+            "The Sinfulness of Sin and the Great Sinfulness of Immorality"
+          ]
+        },
+        {
+          "book": "Numbers",
+          "key_chapters": [9, 11, 12, 13, 14, 16, 22, 23, 24, 25],
+          "characters": ["Moses", "Aaron", "Miriam", "Korah", "Joshua", "Caleb", "Balaam"],
+          "events": [
+            "Erection of the Tabernacle",
+            "The People's Complaint",
+            "Moses Challenged",
+            "Spying of the Land",
+            "Moses and Aaron Challenged",
+            "Balaam's Blessing"
+          ],
+          "themes": [
+            "God Will Not Have His Authority Figures Challenged",
+            "Complaint is Distrust of God",
+            "God Will Protect His People No Matter How Unfaithful"
+          ]
+        },
+        {
+          "book": "Deuteronomy",
+          "key_chapters": [1, 2, 3, 4, 5, 27, 28, 31, 34],
+          "characters": ["Moses", "Aaron", "Joshua"],
+          "events": [
+            "Preparation for Canaan",
+            "The Regiving of the Law",
+            "Blessings and Curses",
+            "Moses' Death"
+          ],
+          "themes": [
+            "Obedience to God Brings Reward While Disobedience Brings a Curse"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Historical Books",
+      "books": [
+        {
+          "book": "Joshua",
+          "key_chapters": [1, 2, 6, 10, 23, 24],
+          "characters": ["Joshua", "Rahab", "Caleb", "Achan"],
+          "events": [
+            "Crossing the Jordan",
+            "Fall of Jericho",
+            "Conquest of Canaan"
+          ],
+          "themes": [
+            "God Fulfills His Promises",
+            "Courage in God's Help"
+          ]
+        },
+        {
+          "book": "Judges",
+          "key_chapters": [2, 4, 5, 6, 7, 13, 14, 15, 16],
+          "characters": ["Deborah", "Gideon", "Samson", "Delilah", "Jael"],
+          "events": [
+            "Deborah and Barak's Victory",
+            "Gideon's Fleece",
+            "Samson and Delilah",
+            "Samson's Victory",
+            "The Silver Idol"
+          ],
+          "themes": [
+            "Slavery to Sin",
+            "God Uses People",
+            "God's Patience Despite Human Faithlessness"
+          ]
+        },
+        {
+          "book": "Ruth",
+          "key_chapters": [4],
+          "characters": ["Ruth", "Naomi", "Boaz"],
+          "events": [
+            "Ruth Leaves Moab",
+            "Gleaning in Boaz's Field",
+            "The Kinsman-Redeemer"
+          ],
+          "themes": [
+            "Loyalty and Faithfulness",
+            "God's Providence",
+            "Humility"
+          ]
+        },
+        {
+          "book": "1 Samuel",
+          "key_chapters": [1, 2, 3, 8, 13, 15, 16, 17, 24],
+          "characters": ["Samuel", "Saul", "David"],
+          "events": [
+            "Hannah's Prayer",
+            "Samuel's Call",
+            "Saul's Kingship",
+            "David and Goliath",
+            "David Spares Saul"
+          ],
+          "themes": [
+            "God Opposes Pride",
+            "The Fear of Man",
+            "God Sees the Heart"
+          ]
+        },
+        {
+          "book": "2 Samuel",
+          "key_chapters": [5, 7, 11, 12, 15, 18],
+          "characters": ["David", "Nathan", "Absalom", "Joab"],
+          "events": [
+            "David's Kingship",
+            "The Davidic Covenant",
+            "David and Bathsheba",
+            "Absalom's Rebellion"
+          ],
+          "themes": [
+            "God's Covenant Faithfulness",
+            "Sin Has Consequences",
+            "God Forgives the Worst Sins"
+          ]
+        },
+        {
+          "book": "1 Kings",
+          "key_chapters": [3, 6, 8, 11, 17, 18],
+          "characters": ["Solomon", "Rehoboam", "Elijah", "Ahab", "Jezebel"],
+          "events": [
+            "Building the Temple",
+            "The Kingdom Divided",
+            "Mount Carmel Confrontation"
+          ],
+          "themes": [
+            "Wisdom is from God",
+            "Idolatry Destroys a People"
+          ]
+        },
+        {
+          "book": "2 Kings",
+          "key_chapters": [2, 5, 17, 22, 23, 25],
+          "characters": ["Elisha", "Naaman", "Hezekiah", "Josiah", "Nebuchadnezzar"],
+          "events": [
+            "Elijah Taken Up",
+            "Naaman's Healing",
+            "Fall of the Northern Kingdom",
+            "Josiah's Reform",
+            "Fall of Jerusalem"
+          ],
+          "themes": [
+            "Disobedience Brings Judgment",
+            "God Honors Those Who Seek Him"
+          ]
+        },
+        {
+          "book": "1 Chronicles",
+          "key_chapters": [1, 10, 11, 13, 14, 15, 16, 17, 21, 22, 28, 29],
+          "characters": ["David", "Saul", "Nathan", "Solomon", "Joab"],
+          "events": [
+            "Saul's Death",
+            "David Crowned King",
+            "The Ark Brought to Jerusalem",
+            "David's Census and Its Consequences"
+          ],
+          "themes": [
+            "The Centrality of Worship",
+            "David as the Model King"
+          ]
+        },
+        {
+          "book": "2 Chronicles",
+          "key_chapters": [1, 2, 3, 4, 5, 6, 7, 20, 29, 30, 31, 32, 34, 35, 36],
+          "characters": ["Solomon", "Jehoshaphat", "Hezekiah", "Josiah", "Nebuchadnezzar"],
+          "events": [
+            "Building and Dedication of the Temple",
+            "The Kingdom Divided",
+            "Hezekiah's Reform and the Assyrian Threat",
+            "Josiah's Reform and the Discovery of the Law",
+            "The Fall of Jerusalem"
+          ],
+          "themes": [
+            "Faithfulness Brings Blessing",
+            "Apostasy Brings Judgment",
+            "God is Merciful to the Humble"
+          ]
+        },
+        {
+          "book": "Ezra",
+          "key_chapters": [1, 3, 7, 9, 10],
+          "characters": ["Ezra", "Cyrus", "Zerubbabel"],
+          "events": [
+            "Return from Exile",
+            "Rebuilding the Temple",
+            "Ezra's Reform"
+          ],
+          "themes": [
+            "God Sovereignly Rules Kings",
+            "Danger of Compromise with Culture"
+          ]
+        },
+        {
+          "book": "Nehemiah",
+          "key_chapters": [1, 2, 4, 6, 8, 13],
+          "characters": ["Nehemiah", "Ezra", "Sanballat"],
+          "events": [
+            "Nehemiah's Prayer",
+            "Rebuilding the Wall",
+            "Opposition and Perseverance",
+            "Public Reading of the Law"
+          ],
+          "themes": [
+            "Prayer Should Have Action",
+            "Opposition to God's Work"
+          ]
+        },
+        {
+          "book": "Esther",
+          "key_chapters": [1, 2, 3, 4, 5, 7, 8],
+          "characters": ["Esther", "Mordecai", "Haman", "Ahasuerus"],
+          "events": [
+            "Esther Made Queen",
+            "Haman's Plot",
+            "The King's Decree",
+            "Esther's Accusation",
+            "Haman's Downfall"
+          ],
+          "themes": [
+            "God's Providence in Politics",
+            "God Protects His People",
+            "Finding God When He is Not Obvious"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Wisdom Literature",
+      "books": [
+        {
+          "book": "Job",
+          "key_chapters": [1, 2, 3, 38, 39, 40, 41, 42],
+          "characters": ["God", "Job", "Satan", "Eliphaz", "Bildad", "Zophar", "Elihu"],
+          "events": [
+            "Job is Reduced",
+            "God Speaks to Job",
+            "Job is Vindicated"
+          ],
+          "themes": [
+            "Faith Through Suffering",
+            "Divine Justice",
+            "Providence"
+          ]
+        },
+        {
+          "book": "Psalms",
+          "key_chapters": [1, 23, 51, 103, 119, 145, 146, 147, 148, 149, 150],
+          "characters": ["David", "Asaph", "Sons of Korah", "Moses", "God"],
+          "events": [
+            "Confession",
+            "Praise",
+            "Pilgrimage"
+          ],
+          "themes": [
+            "Praise and Worship",
+            "God's Lovingkindness",
+            "God's Promises",
+            "Hope"
+          ]
+        },
+        {
+          "book": "Proverbs",
+          "key_chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 30, 31],
+          "characters": ["Solomon", "Wisdom", "Folly", "The Wise Man", "The Fool", "The Naive", "Lemuel's Mother"],
+          "events": [
+            "Father Instructs a Son"
+          ],
+          "themes": [
+            "Fear of the Lord",
+            "Importance of Wisdom vs. Folly",
+            "Speech",
+            "Diligence"
+          ]
+        },
+        {
+          "book": "Ecclesiastes",
+          "key_chapters": [1, 3, 9, 12],
+          "characters": ["The Preacher", "God"],
+          "events": [
+            "Pursuit of Wisdom",
+            "Cyclic Nature of Life"
+          ],
+          "themes": [
+            "Vanity",
+            "Morality",
+            "Fear of God"
+          ]
+        },
+        {
+          "book": "Song of Solomon",
+          "key_chapters": [5, 8],
+          "characters": ["Him", "Her", "Them"],
+          "events": [
+            "Courtship",
+            "Dreams",
+            "Wedding"
+          ],
+          "themes": [
+            "Mutual Deathless Love"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Prophetic Books",
+      "books": [
+        {
+          "book": "Isaiah",
+          "key_chapters": [6, 7, 9, 14, 40, 53],
+          "characters": ["Isaiah", "Hezekiah", "Sennacherib"],
+          "events": [
+            "Call of Isaiah",
+            "Prophecy to King Ahaz",
+            "Assyrian Invasion",
+            "Hezekiah's Illness",
+            "Babylonian Envoy"
+          ],
+          "themes": [
+            "Judgment and Salvation",
+            "Holiness",
+            "Justice and Mercy of God and His Servant"
+          ]
+        },
+        {
+          "book": "Jeremiah",
+          "key_chapters": [1, 7, 29, 31, 38],
+          "characters": ["Jeremiah", "Zedekiah", "King of Tyre"],
+          "events": [
+            "Call of Jeremiah",
+            "Temple Sermon",
+            "Fall of Jerusalem",
+            "Jeremiah Imprisoned",
+            "Flight to Egypt"
+          ],
+          "themes": [
+            "Judgment",
+            "Repentance",
+            "Failure to Follow the Covenant"
+          ]
+        },
+        {
+          "book": "Lamentations",
+          "key_chapters": [3, 5],
+          "characters": ["Jeremiah", "Jerusalem Personified"],
+          "events": [
+            "Lamenting Jerusalem"
+          ],
+          "themes": [
+            "Suffering for Sin",
+            "Hope in God's Mercy"
+          ]
+        },
+        {
+          "book": "Ezekiel",
+          "key_chapters": [1, 18, 37, 40, 48],
+          "characters": ["Ezekiel"],
+          "events": [
+            "Valley of Dry Bones",
+            "Vision of New Jerusalem"
+          ],
+          "themes": [
+            "God's Glory",
+            "The Coming New Jerusalem"
+          ]
+        },
+        {
+          "book": "Daniel",
+          "key_chapters": [1, 2, 3, 4, 5, 6, 11],
+          "characters": ["Daniel", "Nebuchadnezzar", "Guards", "Shadrach", "Meshach", "Abednego", "Gabriel"],
+          "events": [
+            "Fiery Furnace",
+            "Lions' Den",
+            "Writing on the Wall"
+          ],
+          "themes": [
+            "The Sovereignty of God and the End Times",
+            "Faithfully Following God"
+          ]
+        },
+        {
+          "book": "Hosea",
+          "key_chapters": [1, 3, 11],
+          "characters": ["Hosea", "Gomer"],
+          "events": [
+            "Marriage as Symbol of Israel's Unfaithfulness"
+          ],
+          "themes": [
+            "God's Love",
+            "Unfaithfulness and Redemption"
+          ]
+        },
+        {
+          "book": "Joel",
+          "key_chapters": [1, 2, 3],
+          "characters": [],
+          "events": [
+            "Locust Plague",
+            "Day of the Lord"
+          ],
+          "themes": [
+            "Coming Judgment",
+            "God's Spirit"
+          ]
+        },
+        {
+          "book": "Amos",
+          "key_chapters": [3, 4, 5, 9],
+          "characters": [],
+          "events": [
+            "Oracles Against the Nations"
+          ],
+          "themes": [
+            "Justice",
+            "Righteousness"
+          ]
+        },
+        {
+          "book": "Obadiah",
+          "key_chapters": [1],
+          "characters": [],
+          "events": [
+            "Prophecy Against Edom"
+          ],
+          "themes": [
+            "Pride and Judgment"
+          ]
+        },
+        {
+          "book": "Jonah",
+          "key_chapters": [1, 2, 3, 4],
+          "characters": ["Jonah", "Sailors", "Nineveh"],
+          "events": [
+            "Flight",
+            "The Fish",
+            "Nineveh's Repentance",
+            "The Plant"
+          ],
+          "themes": [
+            "Calling",
+            "Forgiveness and God's Mercy"
+          ]
+        },
+        {
+          "book": "Micah",
+          "key_chapters": [4, 5, 6],
+          "characters": ["Micah"],
+          "events": [
+            "Ruler from Bethlehem"
+          ],
+          "themes": [
+            "Faith in God's Judgment",
+            "Living with Justice, Mercy, and Humility"
+          ]
+        },
+        {
+          "book": "Nahum",
+          "key_chapters": [1, 2, 3],
+          "characters": ["Nahum", "Nineveh"],
+          "events": [
+            "Fall of Nineveh"
+          ],
+          "themes": [
+            "Judgment",
+            "God's Justice"
+          ]
+        },
+        {
+          "book": "Habakkuk",
+          "key_chapters": [1, 2, 3],
+          "characters": ["Habakkuk"],
+          "events": [],
+          "themes": [
+            "Justice"
+          ]
+        },
+        {
+          "book": "Zephaniah",
+          "key_chapters": [1, 2, 3],
+          "characters": ["Zephaniah"],
+          "events": [],
+          "themes": [
+            "Judgment and Restoration"
+          ]
+        },
+        {
+          "book": "Haggai",
+          "key_chapters": [1, 2],
+          "characters": ["Haggai", "Zerubbabel"],
+          "events": [],
+          "themes": [
+            "Prioritizing Obedience"
+          ]
+        },
+        {
+          "book": "Zechariah",
+          "key_chapters": [1, 9],
+          "characters": ["Zechariah"],
+          "events": [
+            "Visions",
+            "Prophecy of a Future King"
+          ],
+          "themes": [
+            "Hope",
+            "Restoration",
+            "The Coming Messiah"
+          ]
+        },
+        {
+          "book": "Malachi",
+          "key_chapters": [1, 2, 3, 4],
+          "characters": ["Malachi", "Priests"],
+          "events": [
+            "Rebuke of Priesthood",
+            "Promise of Messenger"
+          ],
+          "themes": [
+            "Faithfulness to the Covenants",
+            "The Coming Judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Gospels and Acts",
+      "books": [
+        {
+          "book": "Matthew",
+          "key_chapters": [1, 2, 5, 6, 7, 16, 21, 26, 27, 28],
+          "characters": ["Jesus", "Mary", "John the Baptist", "Peter", "The Twelve"],
+          "events": [
+            "The Nativity",
+            "Sermon on the Mount",
+            "Feeding of the 5,000",
+            "Peter's Confession",
+            "Triumphal Entry",
+            "Last Supper",
+            "Crucifixion",
+            "Resurrection"
+          ],
+          "themes": [
+            "Jesus as the Fulfillment of the Old Testament",
+            "The Kingdom of Heaven",
+            "Jesus as King"
+          ]
+        },
+        {
+          "book": "Mark",
+          "key_chapters": [1, 8, 9, 14, 15, 16],
+          "characters": ["Jesus", "Peter", "The Twelve", "Pilate"],
+          "events": [
+            "Jesus' Baptism",
+            "Feeding of the 5,000",
+            "Transfiguration",
+            "Crucifixion",
+            "Resurrection"
+          ],
+          "themes": [
+            "Jesus as the Suffering Servant",
+            "Faith in Action"
+          ]
+        },
+        {
+          "book": "Luke",
+          "key_chapters": [1, 2, 4, 10, 15, 19, 22, 23, 24],
+          "characters": ["Jesus", "Mary", "Zechariah", "Elizabeth", "The Twelve", "Zacchaeus"],
+          "events": [
+            "The Nativity",
+            "Jesus in the Temple",
+            "Feeding of the 5,000",
+            "Zacchaeus",
+            "Triumphal Entry",
+            "Last Supper",
+            "Crucifixion",
+            "Resurrection",
+            "The Road to Emmaus"
+          ],
+          "themes": [
+            "Christ's Concern for the Poor and Outcast",
+            "Universality of Salvation",
+            "Jesus as the Perfect Man"
+          ]
+        },
+        {
+          "book": "John",
+          "key_chapters": [1, 3, 6, 11, 13, 14, 15, 16, 17, 19, 20, 21],
+          "characters": ["Jesus", "Nicodemus", "Mary Magdalene", "Lazarus", "Thomas"],
+          "events": [
+            "The Prologue",
+            "Wedding at Cana",
+            "Nicodemus",
+            "Feeding of the 5,000",
+            "Raising of Lazarus",
+            "Upper Room Discourse",
+            "Crucifixion",
+            "Resurrection"
+          ],
+          "themes": [
+            "Jesus as Divine",
+            "Belief Leading to Eternal Life",
+            "Father and Son Relationship"
+          ]
+        },
+        {
+          "book": "Acts",
+          "key_chapters": [1, 2, 7, 8, 9, 13, 14, 15, 16, 27, 28],
+          "characters": ["Peter", "Stephen", "Paul", "Barnabas", "Silas"],
+          "events": [
+            "The Ascension",
+            "Pentecost",
+            "Stephen's Martyrdom",
+            "Paul's Conversion",
+            "First Missionary Journey",
+            "The Jerusalem Council",
+            "Paul's Journey to Rome"
+          ],
+          "themes": [
+            "The Holy Spirit in the Church",
+            "The Gospel Overcoming Barriers",
+            "Suffering Advancing the Mission"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Epistles",
+      "books": [
+        {
+          "book": "Romans",
+          "key_chapters": [1, 3, 6, 8, 12],
+          "characters": ["Paul"],
+          "events": [
+            "Paul's Planned Visit"
+          ],
+          "themes": [
+            "Justification by Faith",
+            "Gentile Faith"
+          ]
+        },
+        {
+          "book": "1 Corinthians",
+          "key_chapters": [1, 12, 13, 15],
+          "characters": ["Paul", "Apollos", "Peter"],
+          "events": [],
+          "themes": [
+            "Unity in Christ",
+            "Christians and Sensuality",
+            "Spiritual Gifts",
+            "Bodily Resurrection"
+          ]
+        },
+        {
+          "book": "2 Corinthians",
+          "key_chapters": [1, 3, 5, 11],
+          "characters": ["Paul"],
+          "events": [
+            "Paul's Painful Visit"
+          ],
+          "themes": [
+            "Veracity of Apostleship",
+            "New Covenant Glory"
+          ]
+        },
+        {
+          "book": "Galatians",
+          "key_chapters": [1, 2, 3, 5],
+          "characters": ["Paul", "Peter", "James"],
+          "events": [
+            "Paul's Visit to Jerusalem"
+          ],
+          "themes": [
+            "Justification by Faith",
+            "Purpose of the Law",
+            "Walking with the Spirit"
+          ]
+        },
+        {
+          "book": "Ephesians",
+          "key_chapters": [2, 4, 6],
+          "characters": ["Paul", "Tychicus"],
+          "events": [],
+          "themes": [
+            "Salvation by Grace",
+            "Jew and Gentile Unity",
+            "Spiritual Warfare"
+          ]
+        },
+        {
+          "book": "Philippians",
+          "key_chapters": [2, 3, 4],
+          "characters": ["Paul", "Euodia", "Syntyche", "Clement"],
+          "events": [],
+          "themes": [
+            "Joy in Trials",
+            "Living in Humility",
+            "Generosity"
+          ]
+        },
+        {
+          "book": "Colossians",
+          "key_chapters": [1, 3],
+          "characters": ["Paul", "Onesimus", "Tychicus", "Mark"],
+          "events": [],
+          "themes": [
+            "Supremacy of Christ",
+            "Living as a Christian",
+            "Human Relationships"
+          ]
+        },
+        {
+          "book": "1 Thessalonians",
+          "key_chapters": [1, 4, 5],
+          "characters": ["Paul", "Silvanus", "Timothy"],
+          "events": [],
+          "themes": [
+            "The Day of the Lord",
+            "Comfort in Grief"
+          ]
+        },
+        {
+          "book": "2 Thessalonians",
+          "key_chapters": [1, 3],
+          "characters": ["Paul", "Silvanus", "Timothy"],
+          "events": [],
+          "themes": [
+            "Endurance",
+            "The Day of the Lord"
+          ]
+        },
+        {
+          "book": "1 Timothy",
+          "key_chapters": [1, 3, 6],
+          "characters": ["Paul", "Timothy", "Hymenaeus", "Alexander"],
+          "events": [],
+          "themes": [
+            "False Doctrine",
+            "Order in the Church",
+            "Qualifications for Leadership"
+          ]
+        },
+        {
+          "book": "2 Timothy",
+          "key_chapters": [2, 3, 4],
+          "characters": ["Paul", "Timothy", "Demas"],
+          "events": [],
+          "themes": [
+            "Endurance",
+            "Soundness of Doctrine",
+            "Inspiration of Scripture"
+          ]
+        },
+        {
+          "book": "Titus",
+          "key_chapters": [1, 3],
+          "characters": ["Paul", "Titus"],
+          "events": [],
+          "themes": [
+            "Practical Doctrine",
+            "Salvation by Grace"
+          ]
+        },
+        {
+          "book": "Philemon",
+          "key_chapters": [1],
+          "characters": ["Paul", "Philemon", "Onesimus"],
+          "events": [
+            "Onesimus Ran Away from Philemon"
+          ],
+          "themes": [
+            "Forgiveness",
+            "Reconciliation",
+            "Christian Brotherhood"
+          ]
+        },
+        {
+          "book": "Hebrews",
+          "key_chapters": [7, 10, 11, 12],
+          "characters": ["Prophets and Fathers of Faith"],
+          "events": [],
+          "themes": [
+            "Obsolescence of the Old Covenant",
+            "Superiority of Christ",
+            "Faith"
+          ]
+        },
+        {
+          "book": "James",
+          "key_chapters": [1, 3, 5],
+          "characters": ["James"],
+          "events": [],
+          "themes": [
+            "Proof of Faith",
+            "Practical Faith and How It Lives"
+          ]
+        },
+        {
+          "book": "1 Peter",
+          "key_chapters": [1, 2, 3],
+          "characters": ["Peter", "Silvanus", "Mark"],
+          "events": [],
+          "themes": [
+            "Hope in Suffering",
+            "Submission to Authority"
+          ]
+        },
+        {
+          "book": "2 Peter",
+          "key_chapters": [1, 3],
+          "characters": ["Peter", "Paul"],
+          "events": [],
+          "themes": [
+            "Guarding Against False Teachers",
+            "Patient Waiting for Christ's Return"
+          ]
+        },
+        {
+          "book": "1 John",
+          "key_chapters": [1, 3, 5],
+          "characters": ["John the Apostle"],
+          "events": [],
+          "themes": [
+            "God is Love",
+            "Abiding in Love"
+          ]
+        },
+        {
+          "book": "2 John",
+          "key_chapters": [1],
+          "characters": ["John", "Elect Lady"],
+          "events": [],
+          "themes": [
+            "Walking in Truth",
+            "False Teachers"
+          ]
+        },
+        {
+          "book": "3 John",
+          "key_chapters": [1],
+          "characters": ["John", "Gaius"],
+          "events": [],
+          "themes": [
+            "Hospitality",
+            "Supporting Workers"
+          ]
+        },
+        {
+          "book": "Jude",
+          "key_chapters": [1],
+          "characters": ["Jude"],
+          "events": [],
+          "themes": [
+            "Contending for the Faith"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Revelation",
+      "books": [
+        {
+          "book": "Revelation",
+          "key_chapters": [1, 2, 3, 4, 5, 12, 13, 19, 20, 21, 22],
+          "characters": ["John", "Jesus", "The Father", "The Beast", "The Dragon", "The Bride"],
+          "events": [
+            "Throne Room Vision",
+            "The Seven Seals",
+            "The Seven Bowls",
+            "The Seven Trumpets",
+            "Woman and the Dragon",
+            "The Fall of Babylon",
+            "The Return of Christ",
+            "The Thousand Year Reign",
+            "The New Jerusalem"
+          ],
+          "themes": [
+            "The Final Victory of Christ",
+            "God's Judgment on Sin",
+            "The Renewal of Creation",
+            "The Eternal Worship of the Lamb"
+          ]
+        }
+      ]
+    }
+  ]
+}
